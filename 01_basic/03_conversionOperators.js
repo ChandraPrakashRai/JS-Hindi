@@ -44,3 +44,28 @@ console.log( abcd);
 // "cp" => true 
 
 
+// ****************** OPERATIONS**************
+
+let a=3
+
+let nega= -a;
+console.log(nega);
+
+//***************  just some important practice************* */
+
+let str1 = "hii"
+let str2 = "  hellooo"
+
+console.log(str1+str2);
+
+console.log("1" +2);  // 12
+console.log(1 +"2");  //12
+console.log("1" +"2"); //12 
+console.log("1" +2 + 2); // 122
+console.log(1+2 + "2");  //32
+
+
+
+
+
+
