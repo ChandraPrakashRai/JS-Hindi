@@ -40,3 +40,8 @@ var myFunction = function(){
     
 }
 myFunction();
+
+
+//+++++++++++++++++++++******* STACK & HEAP******+++++++++++++++
+
+// stack(primitive)   heap(non-primitive data type)
