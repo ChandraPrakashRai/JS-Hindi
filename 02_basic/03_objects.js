@@ -20,3 +20,8 @@ const user = {
 // accessing of object 
 console.log(user.name);
 console.log(user["name"]);  // anotyher way to acces the elements
+
+//  we can change the value of  values
+// age = 30; // XX wrong way 
+user.age = 25;
+console.log(user.age);
