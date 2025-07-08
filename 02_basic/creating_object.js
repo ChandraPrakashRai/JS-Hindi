@@ -60,4 +60,20 @@ console.log(s1.name); // CP
 console.log(Object.values(obj));
 
 
+// +++++*******DESTRUCTURING******++++++++
+// hm iske through kisi object  ke elements ko acces kr skte hai
+//  . vale accessing ke jgh ye use me aa skta ahi 
+
+const course = {
+    name:"kuch JS",
+    price : 9999,
+
+}
+console.log(course.name);
+
+// upr vale method ke bdle hm 
+
+const{name} = course
+console.log(`Hello , ye maine new method se print kiya hai &{name}`);
+console.log(name);
 
