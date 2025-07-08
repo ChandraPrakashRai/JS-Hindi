@@ -57,3 +57,7 @@ class Student1 {
 const s1 = new Student1("CP", 22);
 console.log(s1.name); // CP
 
+console.log(Object.values(obj));
+
+
+
